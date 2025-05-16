@@ -1,0 +1,224 @@
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm04Proveedores.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm03Clientes.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm02Usuarios.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm01MenuPrincipal.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm00Login.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.dll
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.pdb
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm11ComprasDetalle.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm10ComprasEncabezado.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm09VentasDetalle.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm08VentasEncabezado.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm07TipoPago.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm06Medicamento.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm05UnidadMedida.resources
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CopyComplete
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.dll
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm12ReporteUsuarios.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.dll
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.dll
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.pdb
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm12ReporteUsuarios.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm11ComprasDetalle.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm10ComprasEncabezado.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm09VentasDetalle.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm08VentasEncabezado.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm07TipoPago.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm06Medicamento.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm05UnidadMedida.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm04Proveedores.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm03Clientes.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm02Usuarios.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm01MenuPrincipal.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm00Login.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRE.F5C6A8EB.Up2Date
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.dll
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.dll
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.pdb
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm12ReporteUsuarios.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm11ComprasDetalle.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm10ComprasEncabezado.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm09VentasDetalle.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm08VentasEncabezado.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm07TipoPago.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm06Medicamento.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm05UnidadMedida.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm04Proveedores.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm03Clientes.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm02Usuarios.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm01MenuPrincipal.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm00Login.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CopyComplete
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.dll
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.dll
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm12ReporteUsuarios.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm11ComprasDetalle.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm10ComprasEncabezado.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm09VentasDetalle.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm08VentasEncabezado.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm07TipoPago.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm06Medicamento.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm05UnidadMedida.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm04Proveedores.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm03Clientes.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm02Usuarios.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm01MenuPrincipal.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm00Login.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CopyComplete
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.dll
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.dll
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.pdb
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm12ReporteUsuarios.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm11ComprasDetalle.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm10ComprasEncabezado.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm09VentasDetalle.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm08VentasEncabezado.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm07TipoPago.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm06Medicamento.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm05UnidadMedida.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm04Proveedores.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm03Clientes.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm02Usuarios.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm01MenuPrincipal.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm00Login.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRE.F5C6A8EB.Up2Date
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm11Envios.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm10Pagos.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm09Facturacion.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm08Rutas.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm07Transporte.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm06Paquetes.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm05Inventario.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm04Empleados.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm03Clientes.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm02Usuarios.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm01MenuPrincipal.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm00Login.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.dll
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.dll
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRE.F5C6A8EB.Up2Date
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.dll
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.dll
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPADATOS.pdb
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm11Envios.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm10Pagos.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm09Facturacion.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm08Rutas.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm07Transporte.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm06Paquetes.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm05Inventario.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm04Empleados.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm03Clientes.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm02Usuarios.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm01MenuPrincipal.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm00Login.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRE.F5C6A8EB.Up2Date
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm02Usuarios.resources
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm01MenuPrincipal.resources
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm00Login.resources
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPADATOS.dll
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.dll
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPADATOS.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRE.F5C6A8EB.Up2Date

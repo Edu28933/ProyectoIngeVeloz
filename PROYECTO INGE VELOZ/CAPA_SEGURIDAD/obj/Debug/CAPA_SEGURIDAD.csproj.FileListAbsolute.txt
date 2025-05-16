@@ -1,0 +1,48 @@
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.AssemblyReference.cache
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.dll
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.AssemblyReference.cache
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.AssemblyReference.cache
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.AssemblyReference.cache
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.dll
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.dll
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.pdb

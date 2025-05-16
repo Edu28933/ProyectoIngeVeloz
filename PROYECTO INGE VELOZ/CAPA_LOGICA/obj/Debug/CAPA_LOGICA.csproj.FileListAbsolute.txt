@@ -1,0 +1,88 @@
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.AssemblyReference.cache
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.dll
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.pdb
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CopyComplete
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\50251\Desktop\PROYECTOS DE C# 5TO SEMESTRE PROGRA\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.dll
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.pdb
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.AssemblyReference.cache
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOG.603DCAC0.Up2Date
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
+C:\Users\Bp616\OneDrive\Desktop\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.dll
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.pdb
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.AssemblyReference.cache
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CopyComplete
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
+C:\Users\Astrid Chacòn\Desktop\Proyectoo\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.dll
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.AssemblyReference.cache
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CopyComplete
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
+C:\Users\50251\Desktop\ultimo proyecto de progra\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.dll
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.pdb
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOG.603DCAC0.Up2Date
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
+C:\Users\Eduardo\Desktop\PROYECTO_FINAL[1]\PROYECTO FINAL\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.dll
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOG.603DCAC0.Up2Date
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
+C:\Users\Eduardo\Desktop\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.dll
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPADATOS.pdb
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOG.603DCAC0.Up2Date
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
+C:\Users\Eduardo\Desktop\ProyectoDB,Marleny,Eduardo,Brandon\proyecto BaseDatos\PROYECTO_FARMACIO7\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPADATOS.dll
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPADATOS.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOG.603DCAC0.Up2Date
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
+C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb
