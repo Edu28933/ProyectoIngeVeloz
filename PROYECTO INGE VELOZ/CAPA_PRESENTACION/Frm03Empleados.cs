@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CAPA_DATOS;
+using CAPADATOS;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +17,29 @@ namespace CAPA_PRESENTACION
         public Frm03Empleados()
         {
             InitializeComponent();
+        }
+
+        
+        
+
+        public void MtdMostrarEmpleados()
+        {
+
+            cd_03Empleados cd_03Empleados = new cd_03Empleados();
+
+            DataTable dtMostrarEmpleados = cd_03Empleados.MtMostrarEmpleados();
+            dgviewCrudEmpleados.DataSource = dtMostrarEmpleados;
+        }
+
+        private void dgviewCrudEmpleados_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void Frm03Empleados_Load(object sender, EventArgs e)
+        {
+
+            MtdMostrarEmpleados();
         }
     }
 }

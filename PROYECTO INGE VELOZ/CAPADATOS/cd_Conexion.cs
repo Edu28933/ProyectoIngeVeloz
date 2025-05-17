@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CAPADATOS
 {
-    internal class cd_Conexion
+    public class cd_Conexion
     {
         private SqlConnection db_conexion = new SqlConnection("Data Source=EDUARDO\\SQLEXPRESS;Initial Catalog=TransporteDB;Integrated Security=True;Encrypt=False");
 

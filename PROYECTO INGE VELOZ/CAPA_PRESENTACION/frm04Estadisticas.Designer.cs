@@ -28,27 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dgviewCrudEmpleados = new System.Windows.Forms.DataGridView();
+            this.dgviewCrudEstdisticas = new System.Windows.Forms.DataGridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.txtDireccion = new System.Windows.Forms.TextBox();
-            this.txtTipoEmpleo = new System.Windows.Forms.TextBox();
-            this.txtSalario = new System.Windows.Forms.TextBox();
-            this.txtTelefono = new System.Windows.Forms.TextBox();
-            this.txtFechaCon = new System.Windows.Forms.TextBox();
-            this.txtcodUsuario = new System.Windows.Forms.TextBox();
+            this.txtTotalIncidentes = new System.Windows.Forms.TextBox();
+            this.txtPasajerosTrans = new System.Windows.Forms.TextBox();
+            this.txtMoneda = new System.Windows.Forms.TextBox();
+            this.txtcodTrans = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.txtUsuario = new System.Windows.Forms.TextBox();
+            this.txtFechaReporte = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.cboxEstado = new System.Windows.Forms.ComboBox();
             this.btnBuscar = new System.Windows.Forms.Button();
             this.txtBuscar = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.txtLicencia = new System.Windows.Forms.TextBox();
+            this.txtIngresoTotal = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -57,47 +53,44 @@
             this.btnAgregar = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
             this.btnActualizar = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.dgviewCrudEmpleados)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgviewCrudEstdisticas)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // dgviewCrudEmpleados
+            // dgviewCrudEstdisticas
             // 
-            this.dgviewCrudEmpleados.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
-            this.dgviewCrudEmpleados.BackgroundColor = System.Drawing.SystemColors.ControlDark;
-            this.dgviewCrudEmpleados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgviewCrudEmpleados.Location = new System.Drawing.Point(431, 100);
-            this.dgviewCrudEmpleados.Margin = new System.Windows.Forms.Padding(4);
-            this.dgviewCrudEmpleados.Name = "dgviewCrudEmpleados";
-            this.dgviewCrudEmpleados.ReadOnly = true;
-            this.dgviewCrudEmpleados.RowHeadersWidth = 51;
-            this.dgviewCrudEmpleados.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgviewCrudEmpleados.Size = new System.Drawing.Size(456, 275);
-            this.dgviewCrudEmpleados.TabIndex = 38;
+            this.dgviewCrudEstdisticas.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.dgviewCrudEstdisticas.BackgroundColor = System.Drawing.SystemColors.ControlDark;
+            this.dgviewCrudEstdisticas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgviewCrudEstdisticas.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dgviewCrudEstdisticas.Location = new System.Drawing.Point(460, 0);
+            this.dgviewCrudEstdisticas.Margin = new System.Windows.Forms.Padding(4);
+            this.dgviewCrudEstdisticas.Name = "dgviewCrudEstdisticas";
+            this.dgviewCrudEstdisticas.ReadOnly = true;
+            this.dgviewCrudEstdisticas.RowHeadersWidth = 51;
+            this.dgviewCrudEstdisticas.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgviewCrudEstdisticas.Size = new System.Drawing.Size(682, 540);
+            this.dgviewCrudEstdisticas.TabIndex = 38;
             // 
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.groupBox1.Controls.Add(this.label10);
-            this.groupBox1.Controls.Add(this.label9);
             this.groupBox1.Controls.Add(this.label8);
             this.groupBox1.Controls.Add(this.label7);
             this.groupBox1.Controls.Add(this.label6);
-            this.groupBox1.Controls.Add(this.txtDireccion);
-            this.groupBox1.Controls.Add(this.txtTipoEmpleo);
-            this.groupBox1.Controls.Add(this.txtSalario);
-            this.groupBox1.Controls.Add(this.txtTelefono);
-            this.groupBox1.Controls.Add(this.txtFechaCon);
-            this.groupBox1.Controls.Add(this.txtcodUsuario);
+            this.groupBox1.Controls.Add(this.txtTotalIncidentes);
+            this.groupBox1.Controls.Add(this.txtPasajerosTrans);
+            this.groupBox1.Controls.Add(this.txtMoneda);
+            this.groupBox1.Controls.Add(this.txtcodTrans);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Controls.Add(this.txtUsuario);
+            this.groupBox1.Controls.Add(this.txtFechaReporte);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.cboxEstado);
             this.groupBox1.Controls.Add(this.btnBuscar);
             this.groupBox1.Controls.Add(this.txtBuscar);
             this.groupBox1.Controls.Add(this.label5);
-            this.groupBox1.Controls.Add(this.txtLicencia);
+            this.groupBox1.Controls.Add(this.txtIngresoTotal);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Left;
@@ -111,28 +104,6 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos Empleados";
             // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.26415F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(13, 336);
-            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(103, 29);
-            this.label10.TabIndex = 45;
-            this.label10.Text = "Salario:";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.26415F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(13, 297);
-            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(171, 29);
-            this.label9.TabIndex = 44;
-            this.label9.Text = "Tipo Empleo:";
-            // 
             // label8
             // 
             this.label8.AutoSize = true;
@@ -140,9 +111,9 @@
             this.label8.Location = new System.Drawing.Point(13, 256);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(131, 29);
+            this.label8.Size = new System.Drawing.Size(207, 29);
             this.label8.TabIndex = 43;
-            this.label8.Text = "Dirección:";
+            this.label8.Text = "Total Incidentes:";
             // 
             // label7
             // 
@@ -151,74 +122,56 @@
             this.label7.Location = new System.Drawing.Point(13, 217);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(198, 29);
+            this.label7.Size = new System.Drawing.Size(114, 29);
             this.label7.TabIndex = 42;
-            this.label7.Text = "Fecha Contrato:";
+            this.label7.Text = "Moneda:";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.26415F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(13, 178);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(125, 29);
+            this.label6.Size = new System.Drawing.Size(183, 25);
             this.label6.TabIndex = 41;
-            this.label6.Text = "Telefono:";
+            this.label6.Text = "Pasajeros Trans.:";
             // 
-            // txtDireccion
+            // txtTotalIncidentes
             // 
-            this.txtDireccion.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtDireccion.Location = new System.Drawing.Point(221, 254);
-            this.txtDireccion.Margin = new System.Windows.Forms.Padding(4);
-            this.txtDireccion.Name = "txtDireccion";
-            this.txtDireccion.Size = new System.Drawing.Size(222, 31);
-            this.txtDireccion.TabIndex = 40;
+            this.txtTotalIncidentes.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTotalIncidentes.Location = new System.Drawing.Point(221, 254);
+            this.txtTotalIncidentes.Margin = new System.Windows.Forms.Padding(4);
+            this.txtTotalIncidentes.Name = "txtTotalIncidentes";
+            this.txtTotalIncidentes.Size = new System.Drawing.Size(222, 31);
+            this.txtTotalIncidentes.TabIndex = 40;
             // 
-            // txtTipoEmpleo
+            // txtPasajerosTrans
             // 
-            this.txtTipoEmpleo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTipoEmpleo.Location = new System.Drawing.Point(221, 295);
-            this.txtTipoEmpleo.Margin = new System.Windows.Forms.Padding(4);
-            this.txtTipoEmpleo.Name = "txtTipoEmpleo";
-            this.txtTipoEmpleo.Size = new System.Drawing.Size(222, 31);
-            this.txtTipoEmpleo.TabIndex = 39;
+            this.txtPasajerosTrans.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPasajerosTrans.Location = new System.Drawing.Point(221, 176);
+            this.txtPasajerosTrans.Margin = new System.Windows.Forms.Padding(4);
+            this.txtPasajerosTrans.Name = "txtPasajerosTrans";
+            this.txtPasajerosTrans.Size = new System.Drawing.Size(222, 31);
+            this.txtPasajerosTrans.TabIndex = 37;
             // 
-            // txtSalario
+            // txtMoneda
             // 
-            this.txtSalario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtSalario.Location = new System.Drawing.Point(221, 334);
-            this.txtSalario.Margin = new System.Windows.Forms.Padding(4);
-            this.txtSalario.Name = "txtSalario";
-            this.txtSalario.Size = new System.Drawing.Size(222, 31);
-            this.txtSalario.TabIndex = 38;
+            this.txtMoneda.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtMoneda.Location = new System.Drawing.Point(221, 215);
+            this.txtMoneda.Margin = new System.Windows.Forms.Padding(4);
+            this.txtMoneda.Name = "txtMoneda";
+            this.txtMoneda.Size = new System.Drawing.Size(222, 31);
+            this.txtMoneda.TabIndex = 35;
             // 
-            // txtTelefono
+            // txtcodTrans
             // 
-            this.txtTelefono.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTelefono.Location = new System.Drawing.Point(221, 176);
-            this.txtTelefono.Margin = new System.Windows.Forms.Padding(4);
-            this.txtTelefono.Name = "txtTelefono";
-            this.txtTelefono.Size = new System.Drawing.Size(222, 31);
-            this.txtTelefono.TabIndex = 37;
-            // 
-            // txtFechaCon
-            // 
-            this.txtFechaCon.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtFechaCon.Location = new System.Drawing.Point(221, 215);
-            this.txtFechaCon.Margin = new System.Windows.Forms.Padding(4);
-            this.txtFechaCon.Name = "txtFechaCon";
-            this.txtFechaCon.Size = new System.Drawing.Size(222, 31);
-            this.txtFechaCon.TabIndex = 35;
-            // 
-            // txtcodUsuario
-            // 
-            this.txtcodUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtcodUsuario.Location = new System.Drawing.Point(221, 59);
-            this.txtcodUsuario.Margin = new System.Windows.Forms.Padding(4);
-            this.txtcodUsuario.Name = "txtcodUsuario";
-            this.txtcodUsuario.Size = new System.Drawing.Size(222, 31);
-            this.txtcodUsuario.TabIndex = 34;
+            this.txtcodTrans.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtcodTrans.Location = new System.Drawing.Point(221, 59);
+            this.txtcodTrans.Margin = new System.Windows.Forms.Padding(4);
+            this.txtcodTrans.Name = "txtcodTrans";
+            this.txtcodTrans.Size = new System.Drawing.Size(222, 31);
+            this.txtcodTrans.TabIndex = 34;
             // 
             // label1
             // 
@@ -227,18 +180,18 @@
             this.label1.Location = new System.Drawing.Point(7, 61);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(172, 29);
+            this.label1.Size = new System.Drawing.Size(210, 29);
             this.label1.TabIndex = 33;
-            this.label1.Text = "Cod. Usuario:";
+            this.label1.Text = "Cod. Transporte:";
             // 
-            // txtUsuario
+            // txtFechaReporte
             // 
-            this.txtUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtUsuario.Location = new System.Drawing.Point(221, 98);
-            this.txtUsuario.Margin = new System.Windows.Forms.Padding(4);
-            this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(222, 31);
-            this.txtUsuario.TabIndex = 32;
+            this.txtFechaReporte.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtFechaReporte.Location = new System.Drawing.Point(221, 98);
+            this.txtFechaReporte.Margin = new System.Windows.Forms.Padding(4);
+            this.txtFechaReporte.Name = "txtFechaReporte";
+            this.txtFechaReporte.Size = new System.Drawing.Size(222, 31);
+            this.txtFechaReporte.TabIndex = 32;
             // 
             // label4
             // 
@@ -247,9 +200,9 @@
             this.label4.Location = new System.Drawing.Point(13, 100);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(114, 29);
+            this.label4.Size = new System.Drawing.Size(193, 29);
             this.label4.TabIndex = 31;
-            this.label4.Text = "Nombre:";
+            this.label4.Text = "Fecha Reporte:";
             // 
             // cboxEstado
             // 
@@ -257,7 +210,7 @@
             this.cboxEstado.Items.AddRange(new object[] {
             "Activo",
             "Inactivo"});
-            this.cboxEstado.Location = new System.Drawing.Point(223, 373);
+            this.cboxEstado.Location = new System.Drawing.Point(223, 293);
             this.cboxEstado.Margin = new System.Windows.Forms.Padding(4);
             this.cboxEstado.Name = "cboxEstado";
             this.cboxEstado.Size = new System.Drawing.Size(222, 37);
@@ -301,20 +254,20 @@
             this.label5.Size = new System.Drawing.Size(0, 38);
             this.label5.TabIndex = 12;
             // 
-            // txtLicencia
+            // txtIngresoTotal
             // 
-            this.txtLicencia.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtLicencia.Location = new System.Drawing.Point(221, 137);
-            this.txtLicencia.Margin = new System.Windows.Forms.Padding(4);
-            this.txtLicencia.Name = "txtLicencia";
-            this.txtLicencia.Size = new System.Drawing.Size(222, 31);
-            this.txtLicencia.TabIndex = 5;
+            this.txtIngresoTotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.22642F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtIngresoTotal.Location = new System.Drawing.Point(221, 137);
+            this.txtIngresoTotal.Margin = new System.Windows.Forms.Padding(4);
+            this.txtIngresoTotal.Name = "txtIngresoTotal";
+            this.txtIngresoTotal.Size = new System.Drawing.Size(222, 31);
+            this.txtIngresoTotal.TabIndex = 5;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.26415F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(13, 381);
+            this.label3.Location = new System.Drawing.Point(13, 301);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(101, 29);
@@ -328,9 +281,9 @@
             this.label2.Location = new System.Drawing.Point(13, 139);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(117, 29);
+            this.label2.Size = new System.Drawing.Size(175, 29);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Licencia:";
+            this.label2.Text = "Ingreso Total:";
             // 
             // panel1
             // 
@@ -442,12 +395,13 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1142, 610);
-            this.Controls.Add(this.dgviewCrudEmpleados);
+            this.Controls.Add(this.dgviewCrudEstdisticas);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.panel1);
             this.Name = "frm04Estadisticas";
             this.Text = "frm04Estadisticas";
-            ((System.ComponentModel.ISupportInitialize)(this.dgviewCrudEmpleados)).EndInit();
+            this.Load += new System.EventHandler(this.frm04Estadisticas_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dgviewCrudEstdisticas)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.panel1.ResumeLayout(false);
@@ -457,27 +411,23 @@
 
         #endregion
 
-        private System.Windows.Forms.DataGridView dgviewCrudEmpleados;
+        private System.Windows.Forms.DataGridView dgviewCrudEstdisticas;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox txtDireccion;
-        private System.Windows.Forms.TextBox txtTipoEmpleo;
-        private System.Windows.Forms.TextBox txtSalario;
-        private System.Windows.Forms.TextBox txtTelefono;
-        private System.Windows.Forms.TextBox txtFechaCon;
-        private System.Windows.Forms.TextBox txtcodUsuario;
+        private System.Windows.Forms.TextBox txtTotalIncidentes;
+        private System.Windows.Forms.TextBox txtPasajerosTrans;
+        private System.Windows.Forms.TextBox txtMoneda;
+        private System.Windows.Forms.TextBox txtcodTrans;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtUsuario;
+        private System.Windows.Forms.TextBox txtFechaReporte;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox cboxEstado;
         private System.Windows.Forms.Button btnBuscar;
         private System.Windows.Forms.TextBox txtBuscar;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox txtLicencia;
+        private System.Windows.Forms.TextBox txtIngresoTotal;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Panel panel1;

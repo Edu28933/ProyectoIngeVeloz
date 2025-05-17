@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CAPADATOS;
+using CAPA_DATOS;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +17,20 @@ namespace CAPA_PRESENTACION
         public frm05Pagos()
         {
             InitializeComponent();
+        }
+
+        public void MtdMostrarPagos()
+        {
+
+            cd_05Pagos cd_05Pagos = new cd_05Pagos();
+
+            DataTable dtMostrarPagos = cd_05Pagos.MtMostrarPagos();
+            dgviewCrudPagos.DataSource = dtMostrarPagos;
+        }
+
+        private void frm05Pagos_Load(object sender, EventArgs e)
+        {
+            MtdMostrarPagos();
         }
     }
 }

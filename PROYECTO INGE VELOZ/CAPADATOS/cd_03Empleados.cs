@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CAPADATOS;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CAPADATOS
 {
-    internal class cd_03Empleados
+    public class cd_03Empleados
     {
         cd_Conexion cd_Conexion = new cd_Conexion();
 

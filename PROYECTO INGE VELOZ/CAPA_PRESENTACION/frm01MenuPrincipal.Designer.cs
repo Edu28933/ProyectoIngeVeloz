@@ -36,6 +36,9 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.LblNombreUsuario = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnEmpleados = new System.Windows.Forms.Button();
+            this.btnEstadisticas = new System.Windows.Forms.Button();
+            this.btnPagos = new System.Windows.Forms.Button();
             this.panelContenedorForms.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.panelMenuLateral.SuspendLayout();
@@ -72,6 +75,9 @@
             // 
             this.panelMenuLateral.AutoScroll = true;
             this.panelMenuLateral.BackColor = System.Drawing.Color.Black;
+            this.panelMenuLateral.Controls.Add(this.btnPagos);
+            this.panelMenuLateral.Controls.Add(this.btnEstadisticas);
+            this.panelMenuLateral.Controls.Add(this.btnEmpleados);
             this.panelMenuLateral.Controls.Add(this.btnUsuarios);
             this.panelMenuLateral.Controls.Add(this.pictureBox1);
             this.panelMenuLateral.Dock = System.Windows.Forms.DockStyle.Left;
@@ -139,6 +145,69 @@
             this.panel1.TabIndex = 4;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
+            // btnEmpleados
+            // 
+            this.btnEmpleados.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnEmpleados.FlatAppearance.BorderSize = 0;
+            this.btnEmpleados.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
+            this.btnEmpleados.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Red;
+            this.btnEmpleados.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEmpleados.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.830189F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEmpleados.ForeColor = System.Drawing.Color.White;
+            this.btnEmpleados.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnEmpleados.Location = new System.Drawing.Point(0, 171);
+            this.btnEmpleados.Margin = new System.Windows.Forms.Padding(4);
+            this.btnEmpleados.Name = "btnEmpleados";
+            this.btnEmpleados.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
+            this.btnEmpleados.Size = new System.Drawing.Size(333, 55);
+            this.btnEmpleados.TabIndex = 2;
+            this.btnEmpleados.Text = "EMPLEADOS";
+            this.btnEmpleados.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnEmpleados.UseVisualStyleBackColor = true;
+            this.btnEmpleados.Click += new System.EventHandler(this.btnEmpleados_Click);
+            // 
+            // btnEstadisticas
+            // 
+            this.btnEstadisticas.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnEstadisticas.FlatAppearance.BorderSize = 0;
+            this.btnEstadisticas.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
+            this.btnEstadisticas.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Red;
+            this.btnEstadisticas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEstadisticas.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.830189F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEstadisticas.ForeColor = System.Drawing.Color.White;
+            this.btnEstadisticas.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnEstadisticas.Location = new System.Drawing.Point(0, 226);
+            this.btnEstadisticas.Margin = new System.Windows.Forms.Padding(4);
+            this.btnEstadisticas.Name = "btnEstadisticas";
+            this.btnEstadisticas.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
+            this.btnEstadisticas.Size = new System.Drawing.Size(333, 55);
+            this.btnEstadisticas.TabIndex = 3;
+            this.btnEstadisticas.Text = "ESTADISTICAS";
+            this.btnEstadisticas.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnEstadisticas.UseVisualStyleBackColor = true;
+            this.btnEstadisticas.Click += new System.EventHandler(this.btnEstadisticas_Click);
+            // 
+            // btnPagos
+            // 
+            this.btnPagos.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnPagos.FlatAppearance.BorderSize = 0;
+            this.btnPagos.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
+            this.btnPagos.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Red;
+            this.btnPagos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPagos.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.830189F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPagos.ForeColor = System.Drawing.Color.White;
+            this.btnPagos.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnPagos.Location = new System.Drawing.Point(0, 281);
+            this.btnPagos.Margin = new System.Windows.Forms.Padding(4);
+            this.btnPagos.Name = "btnPagos";
+            this.btnPagos.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
+            this.btnPagos.Size = new System.Drawing.Size(333, 55);
+            this.btnPagos.TabIndex = 4;
+            this.btnPagos.Text = "PAGOS";
+            this.btnPagos.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnPagos.UseVisualStyleBackColor = true;
+            this.btnPagos.Click += new System.EventHandler(this.btnPagos_Click);
+            // 
             // frm01MenuPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -173,6 +242,9 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label LblNombreUsuario;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button btnEmpleados;
+        private System.Windows.Forms.Button btnPagos;
+        private System.Windows.Forms.Button btnEstadisticas;
     }
 }
 

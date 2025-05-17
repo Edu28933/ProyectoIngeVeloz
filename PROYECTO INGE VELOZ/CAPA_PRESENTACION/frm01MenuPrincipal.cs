@@ -83,5 +83,20 @@ namespace CAPA_PRESENTACION
         {
 
         }
+
+        private void btnEmpleados_Click(object sender, EventArgs e)
+        {
+            mtdAbrirFormularios(new Frm03Empleados());
+        }
+
+        private void btnEstadisticas_Click(object sender, EventArgs e)
+        {
+            mtdAbrirFormularios(new frm04Estadisticas());
+        }
+
+        private void btnPagos_Click(object sender, EventArgs e)
+        {
+            mtdAbrirFormularios(new frm05Pagos());
+        }
     }
 }
