@@ -11,29 +11,29 @@ namespace CAPA_SEGURIDAD
     {
         public static class UsuarioAutenticacion
         {
-            public static string mtdValidacion(string usuario, string Contraseña)
+            public static string mtdValidacion(string nombre, string Contraseña)
             {
-                string Usuario = null;
-                string conexionString = "server=EDUARDO\\SQLEXPRESS; database=db_ProyectoBaseDatos; integrated security=true";
+                string Nombre = null;
+                string conexionString = "server=EDUARDO\\SQLEXPRESS; database=TransporteDB; integrated security=true";
 
                 using (SqlConnection conexion = new SqlConnection(conexionString))
                 {
-                    string query = "SELECT Usuario FROM tb_Usuarios WHERE Usuario=@Usuario AND Contraseña=@Contraseña AND Estado='Activo'";
+                    string query = "SELECT Nombre FROM tbl_Usuarios WHERE Nombre=@Nombre AND Contraseña=@Contraseña AND Estado='Activo'";
                     using (SqlCommand command = new SqlCommand(query, conexion))
                     {
-                        command.Parameters.AddWithValue("@Usuario", usuario);
+                        command.Parameters.AddWithValue("@Nombre", nombre);
                         command.Parameters.AddWithValue("@Contraseña", Contraseña);
 
                         conexion.Open();
                         SqlDataReader reader = command.ExecuteReader();
                         if (reader.Read())
                         {
-                            Usuario = reader["Usuario"].ToString();
+                            Nombre = reader["Nombre"].ToString();
                         }
                     }
                 }
 
-                return Usuario;
+                return Nombre;
             }
         }
     }

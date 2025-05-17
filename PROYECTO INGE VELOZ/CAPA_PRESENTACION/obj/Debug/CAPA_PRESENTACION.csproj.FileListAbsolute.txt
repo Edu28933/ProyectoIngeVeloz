@@ -222,3 +222,26 @@ C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTAC
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.pdb
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.pdb
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRE.F5C6A8EB.Up2Date
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPADATOS.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPADATOS.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm02Usuarios.resources
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm01MenuPrincipal.resources
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm00Login.resources
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRE.F5C6A8EB.Up2Date
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Frm03Empleados.resources
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm04Estadisticas.resources
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frm05Pagos.resources

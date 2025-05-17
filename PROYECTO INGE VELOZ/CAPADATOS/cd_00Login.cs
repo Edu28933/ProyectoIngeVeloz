@@ -14,7 +14,7 @@ namespace CAPA_DATOS
 
         public cd_00Login()
         {
-            conn = new SqlConnection("server=EDUARDO\\SQLEXPRESS; database=db_ProyectoBaseDatos; integrated security=true");
+            conn = new SqlConnection("server=EDUARDO\\SQLEXPRESS; database=TransporteB; integrated security=true");
         }
         //Metodo que me sirve para validar ususario mediante usuario y clave
         public string AutenticarUsuario(string usuario, string contraseña)

@@ -64,6 +64,24 @@
     <Compile Include="frm00Login.Designer.cs">
       <DependentUpon>frm00Login.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm03Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm03Empleados.Designer.cs">
+      <DependentUpon>Frm03Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm04Estadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm04Estadisticas.Designer.cs">
+      <DependentUpon>frm04Estadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm05Pagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm05Pagos.Designer.cs">
+      <DependentUpon>frm05Pagos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frm02Usuarios.resx">
@@ -74,6 +92,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frm00Login.resx">
       <DependentUpon>frm00Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm03Empleados.resx">
+      <DependentUpon>Frm03Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm04Estadisticas.resx">
+      <DependentUpon>frm04Estadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm05Pagos.resx">
+      <DependentUpon>frm05Pagos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

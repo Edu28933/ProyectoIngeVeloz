@@ -127,6 +127,7 @@
             this.Controls.Add(this.txtUsuario);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frm00Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Logeo";
             this.Load += new System.EventHandler(this.frm00Login_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

@@ -151,6 +151,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.MinimumSize = new System.Drawing.Size(1813, 893);
             this.Name = "frm01MenuPrincipal";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EL INGE VELOZ";
             this.Load += new System.EventHandler(this.frm01MenuPrincipal_Load);
             this.panelContenedorForms.ResumeLayout(false);

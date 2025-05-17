@@ -70,3 +70,12 @@ C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPADATOS\obj\
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPADATOS\obj\Debug\CAPA_DATOS.csproj.Up2Date
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPADATOS\obj\Debug\CAPADATOS.dll
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPADATOS\obj\Debug\CAPADATOS.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPADATOS\bin\Debug\CAPADATOS.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPADATOS\bin\Debug\CAPADATOS.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPADATOS\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPADATOS\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPADATOS\obj\Debug\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPADATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPADATOS\obj\Debug\CAPA_DATOS.csproj.Up2Date
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPADATOS\obj\Debug\CAPADATOS.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPADATOS\obj\Debug\CAPADATOS.pdb

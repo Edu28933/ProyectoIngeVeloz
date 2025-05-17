@@ -46,3 +46,9 @@ C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_SEGURIDAD
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.CoreCompileInputs.cache
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.dll
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.AssemblyReference.cache
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_SEGURIDAD\obj\Debug\CAPA_SEGURIDAD.pdb

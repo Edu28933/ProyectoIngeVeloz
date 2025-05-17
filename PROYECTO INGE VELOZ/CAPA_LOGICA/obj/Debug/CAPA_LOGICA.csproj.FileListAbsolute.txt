@@ -86,3 +86,14 @@ C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\ob
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOG.603DCAC0.Up2Date
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
 C:\Users\eduar\Desktop\PROYECTO BASE DE DATOS\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPA_LOGICA.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPADATOS.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPADATOS.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_LOGICA\bin\Debug\CAPA_SEGURIDAD.pdb
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.AssemblyReference.cache
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOG.603DCAC0.Up2Date
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.dll
+C:\Users\eduar\Source\Repos\ProyectoIngeVeloz\PROYECTO INGE VELOZ\CAPA_LOGICA\obj\Debug\CAPA_LOGICA.pdb
