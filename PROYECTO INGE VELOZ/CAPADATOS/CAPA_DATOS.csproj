@@ -44,6 +44,9 @@
     <Compile Include="cd_02Usuarios.cs" />
     <Compile Include="cd_01MenuPrincipal.cs" />
     <Compile Include="cd_00Login.cs" />
+    <Compile Include="cd_03Empleados.cs" />
+    <Compile Include="cd_04Estadisticas.cs" />
+    <Compile Include="cd_05Pagos.cs" />
     <Compile Include="cd_Conexion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
